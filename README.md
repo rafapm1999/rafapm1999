@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Who I am?
+
+My name is Rafa Portillo, an ambitious boy who loves to learn new things. 
+
+
