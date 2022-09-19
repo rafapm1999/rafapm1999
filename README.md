@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 # Who I am?
 
-My name is Rafa Portillo, an ambitious boy who loves to learn new things. 
+My name is *Rafa Portillo*, an ambitious boy who loves to learn new things. 
 
 
