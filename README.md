@@ -21,8 +21,12 @@ My name is *Rafa Portillo*, an ambitious boy who loves to learn new things.
 
 I want to learn Code! Step by step.
 
+Student in CodeSpace Academy (Full Stack Web Development)
+
 # What are my goals?
 
 Learn all the necessary knowledge to be a full stack programmer. 
+
+I´m a Junior Sound Engineer. 
 
 
