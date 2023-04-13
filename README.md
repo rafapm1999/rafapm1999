@@ -27,6 +27,6 @@ Student in CodeSpace Academy (Full Stack Web Development)
 
 Learn all the necessary knowledge to be a full stack programmer. 
 
-I´m a Junior Sound Engineer. 
+Junior Sound Engineer. 
 
 
