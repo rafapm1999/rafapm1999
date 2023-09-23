@@ -21,9 +21,7 @@
 <a href="https://discord.gg/rafapm99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rafapm99" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Github stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafapm1999&show_icons=true&locale=en" alt="rafapm1999" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafapm1999&show_icons=true&locale=en&layout=compact" alt="rafapm1999" /></p>
+
 
 
 
