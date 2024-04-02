@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafa Portillo</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Spain</h3>
 
-- 🔭 I’m **Full Stack Web Developer** 
+- 🔭 I’m a **Full Stack Web Developer** 
 
 - 🤝 I’m open to collaborate on **interesting projects**
 
